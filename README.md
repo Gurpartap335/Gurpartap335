@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gurpartap335
-- 👀 I’m interested in Devops and open source .
-- 🌱 I’m currently learning Data Structures in Java and about devops .
+-  I’m interested in Devops and open source .
+-  I’m currently learning Data Structures in Java and about devops .
